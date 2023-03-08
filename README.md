@@ -2,7 +2,7 @@
 
 ---
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rking32/watermark-telegram-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/botmakernick/Watermarkbot)
 
 ### Specially Thanks for [THIS](https://github.com/ijustbsd/watermark-telegram-bot) Repo
 
