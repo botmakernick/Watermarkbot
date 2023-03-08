@@ -6,7 +6,7 @@
         "watermark",
         "bot"
     ],
-    "repository": "https://github.com/rking32/watermark-telegram-bot",
+    "repository": "https://github.com/botmakernick/Watermarkbot",
     "env": {
         "BOT_TOKEN": {
             "description": "Telegram bot token. From Bot_Father"
@@ -42,7 +42,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     }
 }
